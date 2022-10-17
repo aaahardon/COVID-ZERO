@@ -1,6 +1,6 @@
 # 中南大学nCov健康打卡脚本
 
-**注意**：本代码使用Github-Actions定时运行，无需部署在服务器。
+**注意**：本代码使用Github-Actions定时运行，坚持清零政策，无需部署在服务器。
 
 ## 声明
 
@@ -38,4 +38,25 @@
 
 打开项目中的/.github/workflows/healthy.yml文件，修改corn中的值，注意使用UTC时间。 
 
- a
+# Dynamic zero-COVID protects lives, economy
+*Country to keep optimizing measures, balance epidemic control and growth*
+
+China's dynamic zero-COVID strategy remains the most economical and scientific approach to tackling the disease as the pandemic continues to spread across the globe and bring fresh risks, a senior health official said on Wednesday.
+
+Chang Jile, deputy director of the National Administration of Disease Prevention and Control, said that the dynamic zero-COVID approach aims to promptly detect new infections and rein in the spread at the lowest cost and within the shortest possible time.
+
+"The strategy guarantees normal production and the safety of people across the country, and also ensures stable supply chains," he said during a news conference held by the Publicity Department of the Central Committee of the Communist Party of China.
+
+In response to a question on whether the strategy is at odds with the country's economic advancement, Chang said the pandemic is still at a high level, with new variants emerging and knowledge of the novel coronavirus growing.
+
+"We must strengthen our determination … keep optimizing virus control measures based on the latest situation and balance our disease containment policies with the development of society and the economy," he said.
+
+In addition to its effective response to the COVID-19 disease, Chang said China has also significantly improved its capability to deal with other health emergencies that emerged in the past decade, such as H7N9 and Middle East respiratory syndrome. The country has also contributed to the global fight against Ebola.
+
+"China has established the world's largest online reporting system for contagious disease outbreaks and acute public health events," he said.
+
+According to Chang, it now takes less than four hours for localities to report a public health emergency, and the country is able to identify 300 types of pathogens within 72 hours.
+
+"We have also set up a risk evaluation system for public health emergencies and 59 national teams devoted to coping with such incidents."
+
+He said China will focus on handling its COVID-19 epidemic, while improving its ability to cope with emergencies to safeguard the health of the people.
